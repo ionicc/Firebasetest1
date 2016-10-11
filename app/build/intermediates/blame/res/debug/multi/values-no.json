@@ -368,27 +368,8 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 3197,
-                    "endColumn": 248,
-                    "endOffset": 3441
-                },
-                "from": {
-                    "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.2\\res\\values-no\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 248,
-                        "endOffset": 567
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 3446,
                     "endColumn": 250,
-                    "endOffset": 3692
+                    "endOffset": 3443
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -403,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 3697,
+                    "startOffset": 3448,
                     "endColumn": 124,
-                    "endOffset": 3817
+                    "endOffset": 3568
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -422,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 3822,
+                    "startOffset": 3573,
                     "endColumn": 108,
-                    "endOffset": 3926
+                    "endOffset": 3677
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -441,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 3931,
+                    "startOffset": 3682,
                     "endColumn": 191,
-                    "endOffset": 4118
+                    "endOffset": 3869
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -460,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 4123,
+                    "startOffset": 3874,
                     "endColumn": 129,
-                    "endOffset": 4248
+                    "endOffset": 3999
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -479,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 4253,
+                    "startOffset": 4004,
                     "endColumn": 200,
-                    "endOffset": 4449
+                    "endOffset": 4200
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -498,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 4454,
+                    "startOffset": 4205,
                     "endColumn": 133,
-                    "endOffset": 4583
+                    "endOffset": 4334
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -517,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 4588,
+                    "startOffset": 4339,
                     "endColumn": 205,
-                    "endOffset": 4789
+                    "endOffset": 4540
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -536,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 4794,
+                    "startOffset": 4545,
                     "endColumn": 96,
-                    "endOffset": 4886
+                    "endOffset": 4637
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -555,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 4891,
+                    "startOffset": 4642,
                     "endColumn": 91,
-                    "endOffset": 4978
+                    "endOffset": 4729
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",
@@ -574,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 4983,
+                    "startOffset": 4734,
                     "endColumn": 106,
-                    "endOffset": 5085
+                    "endOffset": 4836
                 },
                 "from": {
                     "file": "Z:\\GitHub Projects\\Firebasetest1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-no\\values.xml",

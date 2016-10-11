@@ -84,6 +84,7 @@ public class LoginActivity extends AppCompatActivity {
                     auth.signInWithEmailAndPassword(imputemail.getText().toString().trim(),imputpassword.getText().toString().trim())
                             .addOnCompleteListener(LoginActivity.this, new OnCompleteListener<AuthResult>() {
                                 @Override
+
                                 public void onComplete(@NonNull Task<AuthResult> task) {
 
                                     if (!task.isSuccessful()) {
